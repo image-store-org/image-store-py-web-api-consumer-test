@@ -1,0 +1,3 @@
+[submodule "dependencies/image-store-py-web-api-consumer"]
+	path = dependencies/image-store-py-web-api-consumer
+	url = git@github.com:image-store-org/image-store-py-web-api-consumer.git
